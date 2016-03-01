@@ -1,7 +1,7 @@
 # python_utils
 ##short utils script with python,The following functions:
 
-###1、replace string
+###1、replace_str.py
 		使用场景：替换给定目录下所有文件中的字符串。
 		使用方法：
 ```
